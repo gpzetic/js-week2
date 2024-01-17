@@ -1,7 +1,8 @@
 /* STEP 1: Declare variables
 Use a-z, 0-9, A-Z and underscores, avoiding reserved names
 All program variables are generally declared at the beginning (called 'hoisting') */
-
+myName = "pi"
+console.log(myName)
 /* STEP 2: Initialize variables
 Don't confuse a variable with no value with one that doesn't exist at all */
 
